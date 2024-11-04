@@ -1,6 +1,7 @@
 Noiselocke Ruleset 
 
 // SETTING THE GAME UP // 
+The point is for a hard BG3 experience, not a frustrating one. There are MANY interactions in this game that can randomly end a run for you on permadeath, and I personally dont find that to be a satisfying loss! So we scale the difficulty up, but allow save loading within parameters.
 
 Custom Mode Options:
 Ruleset: Honour Ruleset
@@ -12,7 +13,21 @@ No Death Saving Throws: Off
 Disable Free First Strikes: On
 Entire rest default
 
+// BANNED CLASSES // 
+These are classes I feel are too overtuned and defeat the point of challenge. I want them to be barred from play for this run specifically to force us all to try out other fun multiclasses.
+
+11 Sorcerer 1 Warlock - Sorlock
+
+8 Monk 4 Rogue - Fist Of The Night
+
+10 Bard 2 Paladin - The Chord of Gods
+
+SPECIFICALLY Throwzerker 12 Barb
+
 // IN GAME RULES // 
+
+It's Ok, That's The Game:
+You may load a save ONLY if you wipe. There is no reloading to get better dialogue, pass a lockpick skill check, or retry an in-field check. Just play your lockpicks and take the disarm failure damage.
 
 Merchant Manners:
 -The merchants of Faerun have things hard as it is, you may not steal from them. IF a merchant dies in combat (Raid on Moonrise For Example), you are more than welcome to loot their body. They dont need that axe where they are now. 
